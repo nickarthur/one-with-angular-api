@@ -12,7 +12,7 @@
         "value": "Standard_LRS"
       },
       "repoURL": {
-        "value": "https://github.com/johnpapa/one-with-angular-api"
+        "value": "https://github.com/nickarthur/one-with-angular-api"
       },
       "branch": {
         "value": "master"

@@ -6,15 +6,15 @@
   "scripts": { },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnpapa/one-with-angular-api.git"
+    "url": "git+https://github.com/nickarthur/one-with-angular-api.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/johnpapa/one-with-angular-api/issues"
+    "url": "https://github.com/nickarthur/one-with-angular-api/issues"
   },
-  "homepage": "https://github.com/johnpapa/one-with-angular-api#readme",
+  "homepage": "https://github.com/nickarthur/one-with-angular-api#readme",
   "dependencies": {
   }
 }
